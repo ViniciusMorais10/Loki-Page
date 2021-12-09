@@ -10,7 +10,7 @@ Desafio 06 concluido da comunidade Codelândia
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
 
-> Preview : https://vercel.com/viniciusmorais10/loki-page/eJAUAjqo5Ygr1aAKsQUeX5VVBhsR
+> Preview : https://loki-page-pvt39scc5-viniciusmorais10.vercel.app/
 
 > Projeto desenvolvido para cumprir desafio 06 do iuricode lançado na comunidade da Codelândia
 
